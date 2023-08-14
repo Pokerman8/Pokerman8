@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 A freshman who working on AIDD.
 <!--
 **Pokerman8/Pokerman8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
