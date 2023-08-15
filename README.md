@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![dorapocket's github stats](https://github-readme-stats-mu-one-24.vercel.app/api?username=Pokerman8&show_icons=true)
+
+[![Top Langs](https://github-readme-stats-mu-one-24.vercel.app/api/top-langs/?username=Pokerman8&hide=php&layout=compact)](https://github.com/Pokerman8)
