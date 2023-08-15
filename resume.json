@@ -10,19 +10,19 @@
   },
   "avatar": { "hidden": false },
   "profile": {
-    "name": "Guoyu Li",
-    "email": "liguoyu21s@mails.ucas.edu.cn",
-    "mobile": "18358293986",
-    "github": "https://github.com/dorapocket",
+    "name": "Jiping Jin",
+    "email": "Jinjiping2023@163.com",
+    "mobile": "xxxx",
+    "github": "https://github.com/Pokerman8",
     "workExpYear": "",
     "workPlace": "",
     "positionTitle": ""
   },
   "educationList": [
     {
-        "edu_time": ["2021.09.01", "current"],
-        "school": "Institute of Computing Technology, Chinese Academy of Science",
-        "major": "Computer Architecture",
+        "edu_time": ["2023.09.01", "current"],
+        "school": "ShanghaiTech University",
+        "major": "AIDD",
         "academic_degree": "M.S."
       },
     {
